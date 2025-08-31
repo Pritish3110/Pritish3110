@@ -1,5 +1,3 @@
-💫 Pritish Bhatasana
-
 <div align="center">
   <!-- Neon Header with Matrix Effect -->
   <div align="center">
