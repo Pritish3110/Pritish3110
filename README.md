@@ -1,19 +1,34 @@
+
 <div align="center">
-  <!-- Neon Header with Matrix Effect -->
+  <!-- Neon Header with Animated Background -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=800&height=80&lines=PRITISH+BHATASANA" alt="Name Banner" />
-    <br/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=500&color=BB86FC&background=0D111700&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Engineer;Developer+%7C+Innovator;Building+Autonomous+Future" alt="Role Banner" />
+    <h1>
+      <img 
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=800&height=80&lines=PRITISH+BHATASANA"
+ alt="Name Banner" />
+    </h1>
+    <img 
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=500&color=BB86FC&background=0D111700&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Engineer;Developer+%7C+Innovator;Building+Autonomous+Future"
+ alt="Role Banner" />
   </div>
-  <!-- Neon Welcome Banner -->
-<!--   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=🤖%20WELCOME%20TO%20MY%20DIGITAL%20REALM%20🤖&width=800&height=150&theme=dark&colorPattern=%23000000,%2300ff88,%23bb86fc&fontSize=28" alt="Welcome Banner" width="100%"/> -->
-  <!-- Alternative Fallback Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="Cyber Banner"/>
-  <!-- Animated Typing Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF88&background=00000000&center=true&vCenter=true&width=800&height=80&lines=👋+Welcome+to+my+Digital+Universe;🤖+AI+%26+Robotics+Engineer;💻+Full+Stack+Developer;🚀+Innovation+Enthusiast" alt="Typing Animation" />
   <!-- Cyber Divider -->
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <div align="center">
+    <img 
+src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+ width="900" alt="Cyber Line"/>
+  </div>
+  <!-- Animated Typing Banner -->
+  <img 
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF88&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+Digital+Universe;🤖+AI+%26+Robotics+Engineer;💻+Full+Stack+Developer;🚀+Innovation+Enthusiast"
+ alt="Typing Animation" />
+  <!-- Cyber Divider -->
+  <img 
+src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"
+ width="100%">
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 
 🌟 About Me
@@ -35,48 +50,200 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-🛠️ Tech Arsenal
+🛠️ Languages and Tools
 
 <div align="center">
 
 🤖 Robotics & Automation
 
-
-
-
-
-
-
+<p align="center">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" 
+style="margin: 10px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
+alt="arduino" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer" 
+style="margin: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" 
+alt="ros" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer" 
+style="margin: 10px;">
+    <img 
+src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" 
+alt="opencv" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.raspberrypi.org/" target="_blank" 
+rel="noreferrer" style="margin: 10px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg"
+ alt="raspberry pi" width="50" height="50" style="margin: 8px;"/>
+  </a>
+</p>
 
 💻 Programming Languages
 
-
-
-
-
-
-
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+ alt="c" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+ alt="cplusplus" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+ alt="python" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
+target="_blank" rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+ alt="javascript" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+ alt="typescript" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+ alt="java" width="50" height="50" style="margin: 8px;"/>
+  </a>
+</p>
 
 🌐 Web Development
 
-
-
-
-
-
-
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+ alt="html5" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+ alt="css3" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+ alt="react" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" 
+alt="nextjs" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+ alt="tailwind" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+ alt="nodejs" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+ alt="mysql" width="50" height="50" style="margin: 8px;"/>
+  </a>
+</p>
 
 🧠 AI & Machine Learning
 
+<p align="center">
+  <a href="https://www.tensorflow.org" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
+alt="tensorflow" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img 
+src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" 
+alt="pytorch" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+ alt="scikit_learn" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img 
+src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" 
+alt="unity" width="50" height="50" style="margin: 8px;"/>
+  </a>
+</p>
 
+🔧 Tools & Platforms
 
-
-
-
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img 
+src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+alt="git" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+ alt="linux" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" 
+rel="noreferrer">
+    <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+ alt="aws" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" 
+rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+ alt="figma" width="50" height="50" style="margin: 8px;"/>
+  </a>
+</p>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<img 
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+ width="100%">
 
 🚀 Featured Projects
+
 
 <div align="center">
 <table>
@@ -274,8 +441,6 @@ Artificial Intelligence • Robotics • Embedded Systems • Machine Learning �
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Innovation"/>
-
-⚡ "Innovating at the intersection of Robotics, AI, and Automation 🚀"
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=1000&color=00FF88&background=00000000&center=true&vCenter=true&width=600&lines=🔮+Building+the+future%2C+one+robot+at+a+time;🌟+Where+code+meets+consciousness;🚀+Autonomous+systems+%7C+Intelligent+solutions;💡+Innovation+through+intelligent+automation" alt="Footer Animation" />
   <!-- Visitor Counter with Neon Effect -->
