@@ -8,8 +8,8 @@
       </h1>
     </h1>
     <img 
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=500&color=BB86FC&background=0D111700&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Engineer;Developer+%7C+Innovator;Building+Autonomous+Future"
- alt="Role Banner" />
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=BB86FC&background=0D111700&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Engineer;Full+Stack+Developer;Autonomous+Systems+Innovator;Open+Source+Contributor;Micromouse+%26+Embedded+Systems+Builder" 
+alt="Role Banner" />
   </div>
   <!-- Cyber Divider -->
   <div align="center">
@@ -19,8 +19,8 @@ src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-
   </div>
   <!-- Animated Typing Banner -->
   <img 
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF88&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+Digital+Universe;🤖+AI+%26+Robotics+Engineer;💻+Full+Stack+Developer;🚀+Innovation+Enthusiast"
- alt="Typing Animation" />
+src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1200&color=00FF88&background=00000000&center=true&vCenter=true&width=800&height=80&lines=🌍+Welcome+to+My+Digital+Universe;🎨+Creativity+Meets+Technology;🚀+Exploring+Ideas+Beyond+Boundaries;📚+Lifelong+Learner+%26+Innovator;☕+Fueled+by+Curiosity+(and+Coffee!)" 
+alt="Welcome Banner" />
   <!-- Cyber Divider -->
   <img 
 src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"
