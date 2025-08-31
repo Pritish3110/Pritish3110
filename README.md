@@ -3,9 +3,9 @@
   <!-- Neon Header with Animated Background -->
   <div align="center">
     <h1>
-      <img 
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=800&height=80&lines=PRITISH+BHATASANA"
- alt="Name Banner" />
+      <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=1&pause=10000000&color=00FF88&background=0D111700&center=true&vCenter=true&width=800&height=80&lines=PRITISH+BHATASANA" alt="Name Banner" />
+      </h1>
     </h1>
     <img 
 src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=500&color=BB86FC&background=0D111700&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Engineer;Developer+%7C+Innovator;Building+Autonomous+Future"
